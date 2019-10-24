@@ -1,5 +1,7 @@
 # Control Theory for Distributed Systems: A New View Of Operations At Scale
 
+**Greg Boyington** (evilchili at gmail dot com)
+
 * * *
 
 # Abstract
@@ -276,3 +278,7 @@ To quote the statistician George Box, “All models are wrong, but some are usef
 **Vogels, W. (2016)**. *10 Lessons From 10 Years of AWS,* Retrieved from https://www.allthingsdistributed.com/2016/03/10-lessons-from-10-years-of-aws.html
 
 **Zhong, Wan-Xie (2004).** *Duality System in Applied Mechanics and Optimal Control*. Boston: Kluwer Academic Publishers
+
+
+* * *
+*Copyright (c) Greg Boyington, 2019. All Rights Reserved.*
